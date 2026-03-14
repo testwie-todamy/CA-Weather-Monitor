@@ -1,2 +1,4 @@
 # California Weather Monitoring Dashboard
-Initial repository setup.
+Date: 2026-03-14
+
+This repository contains the California Weather Monitoring Dashboard project.
